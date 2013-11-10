@@ -57,8 +57,7 @@ def generatingFile(length,name):
 	Generating with 3 track, one with chords one with high single notes one with low single notes
 	length: who long one bar can be,example 1:4/4 0.75:3/4 0.5:2/5 
 	"""
-	speed=randint(2,4)
-	midi = Midi(3, tempo=30*speed)
+	midi = Midi(3, tempo=60)
 	barSeqnotesLow=generatingBarsNotes(length,dataBaseNotesLow)
 	barSeqnotesHigh=generatingBarsNotes(length,dataBaseNotesHigh)
 	barSeqchords=generatingBarChords(length,dataBaseChords)
