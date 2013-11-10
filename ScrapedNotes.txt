@@ -1,0 +1,151 @@
+C# E# G# 
+D# G A# 
+F# A# C# 
+G# B# D# 
+A# D E# 
+C# E# B G# 
+D# G C# A# 
+F# A# E C# 
+G# B# F# D# 
+A# D G# E# 
+C# E G# 
+D# F# A# 
+F# A C# 
+G# B D# 
+A# C# E# 
+C# E B G# 
+D# F# C# A# 
+F# A E C# 
+G# B F# D# 
+A# C# G# E# 
+C# E A# G 
+D# F# B# A 
+F# A Eb C 
+G# B F D 
+A# C# G E 
+C# E G 
+D# F# A 
+F# A C 
+F# A C 
+A# C# E 
+C# E# B# G# 
+D# G D A# 
+F# A# E# C# 
+G# B# G D# 
+A# D A E# 
+C# E# A 
+D# G B 
+F# A# D 
+G# B# E 
+A# D F# 
+Db F Ab 
+Eb G Bb 
+Gb Bb Db 
+Ab C Eb 
+Bb D F 
+Db F Cb Ab 
+Eb G D Bb 
+Gb Bb Fb Db 
+Ab C Gb Eb 
+Bb D Ab F 
+Db Fb Ab 
+Eb Gb Bb 
+Gb A Db 
+Ab Cb Eb 
+Bb Db F 
+Db Fb Cb Ab 
+Eb Gb Db Bb 
+Gb A Fb Db 
+Ab Cb Gb Eb 
+Bb Db Ab F 
+Db Fb Bb G 
+Eb Gb C A 
+Gb A Eb C 
+Ab Cb F D 
+Bb Db G E 
+Db Fb G 
+Eb Gb A 
+Gb A C 
+Ab Cb D 
+Bb Db E 
+Db F C Ab 
+Eb G D Bb 
+Gb Bb F Db 
+Ab C G Eb 
+Bb D A F 
+Db F A 
+Eb G B 
+Gb Bb D 
+Ab C E 
+Bb D F# 
+C E G 
+D F# A 
+E G# B 
+F A C 
+G B D 
+A C# E 
+B D# F# 
+C E Bb G 
+D F# C A 
+E G# D B 
+F A Eb C 
+G B F D 
+A C# G E 
+B D# A F# 
+C Eb G 
+D F A 
+E G B 
+F Ab C 
+G Bb D 
+A C E 
+B D F# 
+C Eb Bb G 
+D F C A 
+E G D B 
+F Ab Eb C 
+G Bb F D 
+A C G E 
+B D A F# 
+C Eb A Gb 
+D F B Ab 
+E G C# Bb 
+F Ab D B 
+G Bb E Db 
+A C F# Eb 
+B D Ab F 
+C Eb Gb 
+D F Ab 
+E G Bb 
+F Ab B 
+G Bb Db 
+A C Eb 
+B D F 
+C E B G 
+D F# C# A 
+E G# D# B 
+F A E C 
+G B F# D 
+A C# G# E 
+B D# A# F# 
+C E G# 
+D F# A# 
+E G# B# 
+F A C# 
+G B D# 
+A C# E# 
+B D# G b 
+B D F 
+C E B G 
+D F# C# A 
+E G# D# B 
+F A E C 
+G B F# D 
+A C# G# E 
+B D# A# F# 
+C E G# 
+D F# A# 
+E G# B# 
+F A C# 
+G B D# 
+A C# E# 
+B D# G
